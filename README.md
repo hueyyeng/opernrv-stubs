@@ -24,7 +24,7 @@ PyCharm should automatically detect the `.pyi` stubs and provide autocompletion 
 
 ## TODO
 
-1. Publish to PyPI.
+1. ~~Publish to PyPI.~~ Done [https://pypi.org/project/openrv-stubs/](https://pypi.org/project/openrv-stubs/)
 2. Implement the other RV modules with type hints.
 
 ## Rant
