@@ -15,6 +15,7 @@ classifiers = [
 
 [project.urls]
 Repository = "https://github.com/hueyyeng/opernrv-stubs"
+Issues = "https://github.com/hueyyeng/opernrv-stubs/issues"
 
 [build-system]
 requires = ["setuptools"]
